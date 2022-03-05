@@ -1,4 +1,4 @@
-# Sectra-Summer-Job-Test
+# Calcuator using lazy evaluation
 Contains a simple calculator which can add, subtract, multiply and print values in registers. Uses Object-oriented programming and lazy evaluation.
 
 To run, do the following command:
